@@ -2,9 +2,9 @@ import csv
 import os
 
 def generate_docs():
-    csv_path = os.path.join(os.path.dirname(__file__), "eclipse_ux_issues.csv")
-    details_path = os.path.join(os.path.dirname(__file__), "issue_details.md")
-    links_path = os.path.join(os.path.dirname(__file__), "issue_links.md")
+    csv_path = os.path.join(os.path.dirname(__file__), "..", "results", "eclipse_ux_issues.csv")
+    details_path = os.path.join(os.path.dirname(__file__), "..", "results", "issue_details.md")
+    links_path = os.path.join(os.path.dirname(__file__), "..", "results", "issue_links.md")
     
     issues = []
     try:

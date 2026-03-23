@@ -47,7 +47,7 @@ def save_to_csv(issues, filename="eclipse_ux_issues.csv"):
         print("No issues found to save.")
         return
     
-    filepath = os.path.join(os.path.dirname(__file__), filename)
+    filepath = os.path.join(os.path.dirname(__file__), "..", "results", filename)
     with open(filepath, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["ID", "Title", "State", "URL", "Labels", "Created At"])

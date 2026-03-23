@@ -4,7 +4,7 @@ import re
 import os
 
 def analyze():
-    filepath = os.path.join(os.path.dirname(__file__), "eclipse_ux_issues.csv")
+    filepath = os.path.join(os.path.dirname(__file__), "..", "results", "eclipse_ux_issues.csv")
     titles = []
     all_labels = []
     
