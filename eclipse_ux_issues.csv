@@ -1,0 +1,183 @@
+ID,Title,State,URL,Labels,Created At
+3659,Proper selection coloring in JFace Structured Viewers,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3659,,2026-01-12T08:01:03Z
+3723,"Prevent editor ""jumping"" by using placeholders for Code Minings",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3723,enhancement,2026-02-03T09:24:44Z
+3771,Enhancement Proposal: Unified Diff Visualization for Eclipse Text Editor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3771,enhancement,2026-03-10T12:44:58Z
+2793,Draw completion proposals always as focused,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2793,enhancement,2025-02-12T09:37:02Z
+1553,make search dialog modeless,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/1553,,2024-01-24T14:05:23Z
+3744,PartServiceImpl.activate(..) leads to scrolling within scrolledComposites even if triggered through a mouse click,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3744,enhancement,2026-02-20T13:28:37Z
+2042,Ctrl+3 (quick search): allow toggling options directly in the search dialog,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2042,enhancement,2024-07-06T07:54:34Z
+3777,Incorrect Colors in LTK Refactoring Preview Wizard,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3777,,2026-03-13T14:47:47Z
+3800,Add tracing to text stores,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3800,enhancement,2026-03-20T09:08:42Z
+3803,Requirement: Support for Truly Flat Look in Eclipse Forms UI,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3803,enhancement,2026-03-20T12:23:28Z
+1041,"SoftLimit: allow ""show..."" node to be auto-expanded when visible or soon visible",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1041,enhancement,2023-08-17T06:57:23Z
+3767,UI freeze on code minings repaint in Java editor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3767,"bug, Windows",2026-03-09T15:34:01Z
+1160,[Feature Request] Option to keep toolbars inlined with view/editors tabs,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1160,,2023-09-22T10:41:03Z
+1123,[Eclipse 4.28.0] [Bug bounty US$50.00] Dark theme: inactive dialog buttons are indistinguishable from active ones,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1123,,2023-09-15T21:10:46Z
+1476,Copy text from Console View should remove Ansi Escape codes by default,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1476,enhancement,2024-01-09T06:16:46Z
+2021,Umbrella Issue: find/replace overlay issues,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2021,enhancement,2024-07-01T15:06:37Z
+3807,Support truly flat look in Forms UI and fix memory leaks,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3807,,2026-03-20T13:29:09Z
+1691,"Position toolbar navigation buttons on the left -> Stop them from jumping on navigating between different editor types (java, plugin.xml, ...)",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1691,enhancement,2024-02-16T11:37:10Z
+3793,Search icon to big,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3793,bug,2026-03-18T13:11:56Z
+3765,Tests for FormEditor #3764,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3765,,2026-03-07T21:25:55Z
+2982,Add cycle detection for e4.ui.dialogs.filteredtree.PatternFilter,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2982,,2025-05-14T21:12:15Z
+3784,Empty area after closing Welcome Screen,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3784,"bug, regression",2026-03-17T07:50:20Z
+3795,Analyze and propose code for issue 3761,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3795,,2026-03-19T02:36:47Z
+658,JFace Dialog is always APPLICATION_MODAL resulting in that all dialogs through builders are like that,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/658,,2023-03-23T09:56:21Z
+3739,Welcome Page links lead to IllegalArgumentException,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3739,bug,2026-02-18T13:56:02Z
+3581,PartRenderingEngineTests.ensureCleanUpAddonCleansUp still fails randomly,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3581,test,2025-12-14T18:30:35Z
+2934,Redesign Message Dialog,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2934,,2025-04-23T01:13:03Z
+2889,UI thread concurrent access to extension registry causes InvalidRegistryObjectException,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2889,bug,2025-04-04T14:50:04Z
+3802,Fix search result consistency in PositionTracker,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3802,,2026-03-20T11:26:56Z
+3764,FormEditor fails to activate editor page,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3764,bug,2026-03-07T21:23:47Z
+3232,UI component being attempted to be disposed in a non-ui thread.,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3232,,2025-08-29T10:09:53Z
+855,Drag and Drop for Eclipse not Working Correctly in Gnome (Ubuntu 22.04),open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/855,,2023-06-26T14:23:26Z
+3806,"Remove ""Use round tabs"" for tabs support",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3806,enhancement,2026-03-20T13:06:24Z
+3788,Add Cut to the project explorer,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3788,enhancement,2026-03-17T13:37:40Z
+3789,Implement Cut action for resources in Project Explorer,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3789,,2026-03-17T13:40:33Z
+509,Do not show error popup when build fails,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/509,,2023-01-05T09:56:35Z
+3801,Add tracing to org.eclipse.text text stores,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3801,,2026-03-20T09:11:09Z
+3808,Skip gradient image for flat look in FormHeading and CSS handler,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3808,,2026-03-20T13:40:27Z
+3796,SearchResultPageTest.testTableNavigation fail sporadically,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3796,test,2026-03-19T06:55:02Z
+1532,"Replace ""Default"" text editor with ""Generic"" text editor",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1532,enhancement,2024-01-21T23:22:47Z
+3256,Option in chevron dropdown to display the most recently active editors at the top of the list,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3256,,2025-09-15T19:59:52Z
+3123,UI freeze when debugging with breakpoints,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3123,"bug, needinfo",2025-07-23T08:37:46Z
+875,Code Folding Menu options in Generic Text Editor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/875,,2022-10-28T13:15:31Z
+1062,CloseUnrelatedProjectsAction can block UI thread,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1062,,2023-08-23T16:12:02Z
+3779,Fix flaky AsyncContentAssistTest.testCompleteActivationChar,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3779,,2026-03-16T10:45:49Z
+3654,Theme `<colorOverride>`s are not honoured,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3654,bug,2026-01-09T15:33:40Z
+3639,Migrate away from PerformanceTestCaseJunit4,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3639,"bug, test",2026-01-05T10:29:34Z
+3760,Configurably improve disabled icons appearance,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3760,,2026-03-04T16:34:07Z
+3591,Error while running the Windows Defender exclusion check,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3591,bug,2025-12-16T15:05:46Z
+1139,Random failing org.eclipse.ui.tests.navigator.SorterTest#testComparatorAsSorter,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1139,"test, flaky test",2023-09-19T14:15:27Z
+1022,UI Freeze: deleting  large search Result,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1022,"Linux, performance",2023-08-15T21:17:46Z
+3560,BadLocationException when a large amount of content is logged to the Eclipse Console,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3560,"bug, question",2025-11-27T06:45:46Z
+3509,IllegalArgumentException when exiting e4-RCP application.,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3509,bug,2025-11-07T10:57:22Z
+2949,Newer Workspace Version popup dialog ui alignment changes.,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2949,,2025-04-29T07:09:20Z
+1010, SoftLimit: Soft and hard limit of elements in the Problems view,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1010,,2023-08-15T09:29:16Z
+2537,IDEWorkbenchPreferencePage breaks ExtenstionFactory,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2537,bug,2024-11-25T14:16:40Z
+3754,Search View: deletion of elements with millions of matches,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3754,performance,2026-03-02T10:48:08Z
+2636,[performance] CloseUnrelatedProjectsAction.buildConnectedComponents(IProject[]) blocks UI startup,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2636,"enhancement, performance",2024-12-17T09:58:56Z
+2169,NullPointerException in the Welcome view,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2169,bug,2024-08-07T06:12:10Z
+2218,Disable UI Freeze Error log by default,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2218,enhancement,2024-08-26T10:05:23Z
+3686,WIP,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3686,,2026-01-19T14:30:10Z
+294,Some ResourceInitialSelectionTest tests fail intermittently,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/294,"help wanted, macOS, test, flaky test",2022-08-25T12:45:42Z
+3775,Incorrect Colors in LTK Refactoring Preview Wizard,closed,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3775,bug,2026-03-13T09:43:21Z
+3554,Error overlay looks odd,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3554,bug,2025-11-22T22:36:55Z
+3790,Improve Open/Close Project visibility in Project Explorer for mixed selections,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3790,enhancement,2026-03-17T13:49:54Z
+1517,Random failing PlatformUITest#testCreateAndRunWorkbench(),open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1517,"test, flaky test",2024-01-18T13:54:04Z
+2227,Move DefaultSpellingEngine for text to eclipse.platform.ui,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2227,enhancement,2024-08-28T11:01:33Z
+468,ToolItems in inactive view toolbars have wrong background color in dark theme         ,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/468,,2022-11-30T18:24:46Z
+1912,[find/replace overlay] Separate UI from Controller Logic,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1912,enhancement,2024-05-31T16:34:43Z
+2608,Loaded class is of incorrect type: expected(org.eclipse.ui.menus.WorkbenchWindowControlContribution) got (org.eclipse.ui.tests.api.workbenchpart.DynamicItem),open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2608,,2024-12-10T09:01:39Z
+3418,Investigation: e4xmi refactoring issue requires fix in eclipse.jdt.ui repository,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3418,,2025-10-21T04:33:54Z
+2702,Random BrokenBarrierException in EventLoopMonitorThreadTests,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2702,"test, flaky test",2025-01-15T06:54:53Z
+2568,Improve UI Indication for Unsaved Changes in Tabs,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2568,,2024-12-02T20:06:51Z
+2379,Some UI Tests Leak thousends Resources without any warning,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2379,test,2024-10-10T09:52:35Z
+2283,UI Freeze in Help>About and in Installation Details,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2283,"good first issue, help wanted, performance",2024-09-17T08:43:01Z
+1721,ClassCastException in EcoreEList.set when using notexists in fragment,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1721,bug,2024-02-27T13:09:23Z
+2250,Always remove deleted projects from working sets,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2250,"enhancement, good first issue",2024-09-06T19:12:00Z
+1670,UI freeze monitoring should be possible also in tests,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1670,"enhancement, help wanted",2024-02-12T13:25:27Z
+1889,Changed tab icons are not saved in workbench.xmi,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1889,bug,2024-05-17T09:19:23Z
+2310,Problem view filtering through FiltersConfigurationDialog could be made part of the API,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2310,enhancement,2024-09-20T13:17:50Z
+1624,"""A conflict occurred for CTRL+/""",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1624,bug,2024-02-05T08:22:49Z
+3098,Use SVG scaling and disabled image generation for Onboarding Image,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3098,enhancement,2025-07-09T07:53:20Z
+3576,Refactor: Improve refresh action performance with parallel processing,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3576,,2025-12-12T08:45:17Z
+1049,NullPointerException when using #org-eclipse-ui-workbench-DARK_FOREGROUND with the * selector,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1049,,2023-08-20T11:39:18Z
+3518,Prompt user when switching to a locked workspace in Eclipse,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3518,,2025-11-08T03:14:21Z
+2353,sortOnly CommonSorter gets thrown away by other NavigationContent TriggerPoints,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2353,,2024-10-02T11:11:50Z
+1067,NPE in CommandProvider.getElements,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1067,test,2023-08-28T11:24:54Z
+2148,Reopen closed tab,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2148,enhancement,2024-08-02T06:41:24Z
+1294,Duplicate project names handling in SmartImport wizard is broken,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1294,,2023-11-08T15:24:26Z
+1209,The line editing commands in the context menu are being incorrectly enabled or disabled regardless of the file's open state.,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1209,,2023-10-11T12:33:54Z
+3614,Process KeyBinding Command Asyncly for Browser,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3614,,2025-12-29T13:55:27Z
+3534,"In Project Explorer, ensure ""Select All"" (Ctrl+A and menu) works reliably irrespective of first or subsequent selections.",open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3534,,2025-11-11T17:31:13Z
+1504,RuleBasedScanner: IllegalArgumentException,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1504,bug,2024-01-15T12:17:29Z
+1112,UI Freeze on macOS with long texts on progress monitor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1112,,2023-09-13T15:19:29Z
+2340,AssertionFailedException TextFileChange.releaseDocument,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2340,bug,2024-09-30T10:04:15Z
+2805,editors opened with IDE.openEditors don't persist restart if never activated,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2805,bug,2025-02-18T16:46:04Z
+208,WorkbenchWindowControlContribution has no access to underlying ToolItem,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/208,,2022-07-13T16:00:59Z
+2774,AssertionFailedException logged after local junit test,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2774,test,2025-02-05T11:21:19Z
+3734,Replace GIF icons with SVGs in example.navigator project,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3734,,2026-02-17T14:31:50Z
+2978,IWorkbenchPage.getViewReferences() loses views,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2978,bug,2025-05-13T15:20:11Z
+3431,Detect the desired size from the path or Query parameters.,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3431,,2025-10-22T16:47:50Z
+3330,Ignore ALT_GR when considering to hide content assists,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3330,,2025-09-26T20:35:12Z
+1612,"Setting the ""Maximized"" flag on an view break layout",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1612,bug,2024-02-01T09:32:56Z
+2976,Perspective reset does not close Help or Welcome views,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2976,"bug, help wanted",2025-05-13T13:26:29Z
+2929,Center text/save space on message dialogs?,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2929,enhancement,2025-04-17T15:25:12Z
+2853,Extension for quick search dialog text viewers. Fixes #2010,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2853,,2025-03-23T16:34:27Z
+273,Cheat Sheets - No menu item for reattaching a detached cheat sheet,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/273,,2022-08-16T16:18:25Z
+3685,SynchronizableDocument implementation is deadlock friendly,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3685,bug,2026-01-19T14:12:15Z
+1340,ElementTreeSelectionDialog with filters initialization order,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1340,,2023-11-29T14:33:38Z
+851,Add convenient static factory methods to create JFace Actions,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/851,,2023-06-24T11:12:54Z
+3334,SetBlockOnOpen Platform Differences,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3334,bug,2025-09-27T18:05:11Z
+897,The method observe(Viewer) is ambiguous for ViewerProperties.input(),open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/897,,2023-06-29T14:22:17Z
+3090,Restore Defaults on Colors and Fonts preference dialog makes dark theme unusable,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3090,bug,2025-07-07T11:43:12Z
+1211,Setup default sorter for GenericTextEditor or make it pluggable,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1211,,2023-10-11T15:03:21Z
+2720,Reduce gradients usage in new Wizard,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2720,enhancement,2025-01-17T09:20:13Z
+2202,The Property view steals PropertySheetPages from other views,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2202,bug,2024-08-16T08:35:29Z
+3420,Add CoreExpression support for handler enablement in E4 model,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3420,,2025-10-21T07:48:31Z
+629,Disable theming by default in Linux distributions?,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/629,,2023-03-12T09:01:27Z
+3144,Find and Replace overlay blocks top content in editor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3144,enhancement,2025-08-04T06:01:01Z
+3582,`PopupCloser` is not always properly uninstalled and pollutes the filterTable of the Display,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3582,bug,2025-12-14T21:50:02Z
+2624,QuickDiff for embedded text documents,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2624,enhancement,2024-12-12T14:09:02Z
+2663,Dialog tray taking wider width than the wizard when we maximise the wizard dialog. It can't be customised.,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2663,"bug, needinfo",2025-01-06T03:43:33Z
+1102,IContentAssistProcessor.computeCompletionProposals dont't know if it's part of autoassist or on-demand assist,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1102,,2023-09-12T08:50:27Z
+3476,Update icon of custom view,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3476,,2025-10-31T19:49:35Z
+2498,Find/Replace Overlay: Compare Editor,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2498,bug,2024-11-06T08:52:27Z
+3067,Screen reader does not read label of spinner widget,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3067,bug,2025-06-25T14:17:23Z
+3044,Ruler icons should scale with font size,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3044,"bug, enhancement",2025-06-14T10:45:01Z
+457,"Editors should always be saved in the method WorkbenchPage.closeAllPerspectives(boolean, boolean)?",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/457,,2022-11-18T06:04:07Z
+879,Editor to show code in multiple (>2) columns on wide monitors,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/879,enhancement,2022-08-19T16:16:31Z
+3660,Migrate Layout Performance Tests to JUnit 5,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3660,,2026-01-12T08:50:25Z
+2606,Fixes to issue #2522 Enable Theming Checkbox,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2606,,2024-12-10T05:55:54Z
+3069,Allowing smaller images to show in the Workbench window,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3069,enhancement,2025-06-25T20:35:17Z
+3397,Fix for multi threading issues in AnnotationMap,open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3397,,2025-10-13T07:39:02Z
+2795,[Bug] Method parameters cannot be announced by Screen Reader,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2795,"bug, accessibility",2025-02-13T03:25:21Z
+3721,Handle zero-width characters properly in code minings,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3721,,2026-02-02T18:10:16Z
+1359,Allow custom partitioning for Generic Text Editor ,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1359,enhancement,2023-12-02T22:53:14Z
+2522,Enable theming preference check box is not working as expected and forces to restart twice,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2522,"bug, good first issue",2024-11-18T14:47:32Z
+805,Eclipse accelerator keys do not work in terminal,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/805,,2023-06-07T00:29:30Z
+426,Provide missing Databinding methods for the generified variants of the now deleted non-generic variants,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/426,,2022-10-24T13:02:05Z
+2815,UI difference in Composite after migrating eclipse based application from version 4.15 to 4.26,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2815,"bug, needinfo",2025-02-25T10:34:38Z
+2349,SWT org.eclipse.swt.widgets.Menu: a very tall menu exceeding the screen when scrolled has the effect to blank the neighboring menus,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2349,"bug, Linux",2024-10-01T19:57:28Z
+3712,Clean Code for bundles/org.eclipse.e4.ui.workbench.renderers.swt,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3712,cleanup,2026-01-31T03:46:36Z
+664,JFace: org.eclipse.jface.fieldassist.ControlDecoration.removeControlListeners() should check if control is already disposed,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/664,,2023-03-28T13:36:18Z
+2507,"FindReplaceOverlay: Add ""skip replace"" button",open,https://github.com/eclipse-platform/eclipse.platform.ui/pull/2507,"help wanted, usability",2024-11-08T14:05:56Z
+3680,Migrate TestFailReporter to JUnit 5 TestFailExtension,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3680,,2026-01-16T10:22:03Z
+3704,Clean Code for bundles/org.eclipse.ui.workbench,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3704,cleanup,2026-01-27T04:48:48Z
+3604,"SWT standalone app fails to start with NPE ""org.eclipse.core.runtime.Platform.getOS()"" is null",closed,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3604,,2025-12-19T11:36:02Z
+2984,Views are transported between perspectives when placed in the editor area,closed,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2984,"bug, help wanted",2025-05-15T08:44:39Z
+1973,Accessibility: Navigating through Controls with Tab does autoscroll to the Viewer with Focus,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1973,bug,2024-06-16T22:27:57Z
+3678,Clean Code for bundles/org.eclipse.ui.workbench,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3678,cleanup,2026-01-16T04:45:50Z
+1797,Add object factories to ISelection interface,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/1797,,2024-04-04T16:08:19Z
+3567,Fix HiDPI progress icon clipping by relayouting only on image size change,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3567,,2025-12-04T09:19:38Z
+13,"Add support for ""Icon Packs"" ",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/13,enhancement,2022-04-19T00:27:29Z
+3733,Search View: Performance issues on remove and sort,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3733,,2026-02-17T14:17:58Z
+2276,Sometimes the Generic Text Editor performs very poorly,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2276,performance,2024-09-16T06:53:08Z
+1121,Large File Association with added editors and content types,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1121,,2023-09-15T16:53:14Z
+3706,[Ubuntu] The console/debugger console views have an inconsistent colored background,closed,https://github.com/eclipse-platform/eclipse.platform.ui/issues/3706,bug,2026-01-27T10:54:25Z
+2304,"""No more handles"" - after editing many MANIFEST.MF",open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/2304,bug,2024-09-20T10:02:06Z
+3549,Add scrollbars to wizard dialog via ScrolledComposite,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3549,,2025-11-18T09:23:53Z
+3501,Migrate WorkbenchContextRule to JUnit 5,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3501,,2025-11-04T21:29:59Z
+3502,Migrate CloseTestWindowsRule to JUnit 5 and migrate all related tests,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3502,,2025-11-04T21:30:16Z
+3012,Add Sorting Functionality for Quick Search Results,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3012,,2025-05-28T00:17:12Z
+1202,Error log popup even if I close it,open,https://github.com/eclipse-platform/eclipse.platform.ui/issues/1202,bug,2023-10-09T07:55:59Z
+3543,Clean Code for bundles/org.eclipse.ui.workbench,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3543,cleanup,2025-11-14T04:38:16Z
+3580,CodeMining: reuse existing inlined annotations when minings are unchanged,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3580,,2025-12-14T16:17:27Z
+3540,Fix alignment of onboarding area command labels,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3540,,2025-11-12T15:18:34Z
+926,Random failing of HoverTest.testEnabledWhenHover(),closed,https://github.com/eclipse-platform/eclipse.platform.ui/issues/926,"help wanted, test, flaky test",2023-07-10T08:04:44Z
+3464,Adapt size of Dialogs based on default size upon zoom change,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3464,,2025-10-28T19:52:47Z
+3493,Clean Code for bundles/org.eclipse.ui.workbench.texteditor,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3493,cleanup,2025-11-04T04:34:05Z
+3494,Clean Code for bundles/org.eclipse.ui.workbench,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3494,cleanup,2025-11-04T04:36:50Z
+3491,Clean Code for bundles/org.eclipse.jface.text,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3491,cleanup,2025-11-04T03:40:29Z
+3492,Clean Code for bundles/org.eclipse.jface,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3492,cleanup,2025-11-04T03:43:36Z
+3485,Clean Code for bundles/org.eclipse.ui.editors,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3485,cleanup,2025-11-02T04:13:58Z
+3482,Clean Code for bundles/org.eclipse.jface,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3482,cleanup,2025-11-02T03:53:18Z
+3481,Clean Code for bundles/org.eclipse.jface.text,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3481,cleanup,2025-11-02T03:51:06Z
+3486,Clean Code for bundles/org.eclipse.ui.ide,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3486,cleanup,2025-11-02T04:23:08Z
+3483,Clean Code for bundles/org.eclipse.ltk.ui.refactoring,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3483,cleanup,2025-11-02T03:58:00Z
+3484,Clean Code for bundles/org.eclipse.text,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3484,cleanup,2025-11-02T04:07:43Z
+3479,Clean Code for bundles/org.eclipse.core.filebuffers,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3479,cleanup,2025-11-02T02:49:53Z
+3480,Clean Code for bundles/org.eclipse.e4.emf.xpath,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3480,cleanup,2025-11-02T02:55:10Z
+3478,Clean Code for bundles/org.eclipse.core.databinding.observable,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3478,cleanup,2025-11-02T02:43:16Z
+3477,Clean Code for bundles/org.eclipse.core.commands,closed,https://github.com/eclipse-platform/eclipse.platform.ui/pull/3477,cleanup,2025-11-02T02:38:12Z
