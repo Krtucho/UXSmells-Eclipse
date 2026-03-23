@@ -17,6 +17,7 @@ Este proyecto tiene como objetivo extraer, analizar y documentar problemas de Ex
 ### Directorio `/docs`
 - `task.md`: Archivo de seguimiento iterativo que se usó para planificar y registrar el progreso a nivel técnico durante la creación de los scripts y la extracción de datos.
 - `analysis_results.md`: Documento preliminar que detalla los "UX smells" principales detectados, clasificándolos en categorías comunes basándose en el recuento automático.
+- `all_repository_labels.md`: Listado exhaustivo de todas las 29 etiquetas extraídas directamente de la API de GitHub para el repositorio principal de interfaz de Eclipse.
 
 ## Cómo usar el proyecto
 
