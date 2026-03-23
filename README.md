@@ -14,6 +14,10 @@ Este proyecto tiene como objetivo extraer, analizar y documentar problemas de Ex
 - `issue_details.md`: Un documento autogenerado que detalla el título, estado, etiquetas y fecha de creación de cada issue individual, formando un catálogo fácil de investigar.
 - `issue_links.md`: Una lista enfocada únicamente en proporcionar enlaces directos y clickeables a cada issue referenciado, ideal para abrir cada problema en el navegador de forma directa.
 
+### Directorio `/docs`
+- `task.md`: Archivo de seguimiento iterativo que se usó para planificar y registrar el progreso a nivel técnico durante la creación de los scripts y la extracción de datos.
+- `analysis_results.md`: Documento preliminar que detalla los "UX smells" principales detectados, clasificándolos en categorías comunes basándose en el recuento automático.
+
 ## Cómo usar el proyecto
 
 1. Si deseas extraer nuevos datos de GitHub, ejecuta:
